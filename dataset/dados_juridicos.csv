@@ -1,0 +1,11 @@
+id,tipo_texto,texto_original
+1,decisao,O réu foi condenado ao pagamento de indenização por danos morais no valor de R$ 5.000,00.
+2,decisao,A parte autora teve seu pedido negado por ausência de provas suficientes.
+3,comunicado,Fica determinado o prazo de 15 dias para cumprimento da obrigação.
+4,decisao,O processo foi extinto sem resolução de mérito.
+5,decisao,A decisão estabelece a responsabilidade da empresa pelos danos causados ao consumidor.
+6,comunicado,O prazo recursal inicia-se a partir da intimação das partes.
+7,decisao,O tribunal manteve a sentença por unanimidade.
+8,comunicado,As partes deverão comparecer à audiência designada.
+9,decisao,O pedido foi julgado parcialmente procedente.
+10,decisao,O recurso foi conhecido e não provido.
